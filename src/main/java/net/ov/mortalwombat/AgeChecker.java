@@ -2,7 +2,7 @@ package net.ov.mortalwombat;
 
 
     public class AgeChecker {
-        private int minAge =18;
+        private int minAge =21;
 
         public void setMinAge(int minAge) {
             this.minAge = minAge;
